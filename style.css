@@ -9,7 +9,7 @@
 
 .profileCon {
     background-color: #191a1d;
-    height:87vh;
+    height:100%;
 }
 
 .blue {
@@ -172,15 +172,4 @@
 .footerBottom {
     background-color: #001c32;
     color: #9aa5b1;
-}
-.copyrightlink{
-    color:#9aa5b1;
-}
-a.footerPara:hover{
-    text-decoration: none;
-    color:#f27822;
-}
-a.copyrightlink:hover{
-    text-decoration: none;
-    color:#f27822;
 }
